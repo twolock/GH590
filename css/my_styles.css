@@ -1,0 +1,37 @@
+/* Set the font size of "first-li" to 25px */
+#first-li{
+  font-size:25px;
+}
+
+
+
+/* Set all elements with class middle to be blue*/
+.middle{
+  color:blue;
+}
+
+
+/* Make all elements with class point be green */
+.point{
+  fill:green;
+}
+
+
+/* Set one of your circles to be red */
+#c3{
+  fill:red;
+}
+
+
+/* Set the opacity of the bottom svg to be .3 */
+#bottom-svg{
+  opacity:0.3;
+}
+
+
+/* Set all elements within the bottom SVG with class "point" to not be visible */
+#bottom-svg .point{
+    opacity:0.0;
+}
+
+

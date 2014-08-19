@@ -1,0 +1,16 @@
+.land {
+	fill:#EDE1E1;
+}
+
+.outline {
+	stroke:white;
+	stroke-width:1;
+	fill:none;
+}
+
+.point {
+	fill:darkslategray;
+	fill-opacity: 0.5;
+	stroke:none;
+	stroke-width:0.5px;
+}
